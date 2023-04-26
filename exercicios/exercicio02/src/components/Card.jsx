@@ -25,7 +25,7 @@ export default function Card(){
              <p
              style={{
                 textAlign: "left",
-                maxWidth: "20vw",
+                maxWidth: "30vw",
                 fontSize: "1.5rem",
                 
              }}
